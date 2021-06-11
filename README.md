@@ -1,3 +1,9 @@
+# Music Player using React
+
+> I dont own any music/images used in this project
+
+## This Music player was taught by Deved (https://github.com/developedbyed)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
